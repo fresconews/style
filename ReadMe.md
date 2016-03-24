@@ -1,4 +1,4 @@
-# Fresco News Style Repo
+# Fresco Style Repo
 
 This repo serves as a reference to all of our style rules when coding. Any changes that we decide to make in how we code should be reflected here.
 
