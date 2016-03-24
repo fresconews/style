@@ -6,7 +6,7 @@ The repo is separated by directories, each directory being its own language or f
 
 ##Table of Contents - 
 
-- [`Javascript`](https://github.com/webpack/webpack)
-- [`Objective-C`](https://github.com/webpack/webpack)
-- [`React`](https://github.com/webpack/webpack)
-- [`CSS/Sass`](https://github.com/webpack/webpack)
+- [`Javascript`](/javascript/Readme.md)
+- [`Objective-C`](/objective-c/Readme.md)
+- [`React`](/react/Readme.md)
+- [`CSS/Sass`](/css/Readme.md)
