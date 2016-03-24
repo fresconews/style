@@ -6,7 +6,7 @@ The repo is separated by directories, each directory being its own language or f
 
 ##Table of Contents - 
 
-- [`Javascript`](/javascript/Readme.md)
-- [`Objective-C`](/objective-c/Readme.md)
-- [`React`](/react/Readme.md)
-- [`CSS/Sass`](/css/Readme.md)
+- [`Javascript`](/javascript/readme.md)
+- [`Objective-C`](/objective-c/readme.md)
+- [`React`](/react/readme.md)
+- [`CSS/Sass`](/css/readme.md)
