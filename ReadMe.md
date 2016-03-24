@@ -4,7 +4,7 @@ This repo serves as a reference to all of our style rules when coding. Any chang
 
 The repo is separated by directories, each directory being its own language or framework.
 
-Guides - 
+##Table of Contente - 
 
 - [`Javascript`](https://github.com/webpack/webpack)
 - [`Objective-C`](https://github.com/webpack/webpack)
