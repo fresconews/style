@@ -4,3 +4,9 @@ This repo serves as a reference to all of our style rules when coding. Any chang
 
 The repo is separated by directories, each directory being its own language or framework.
 
+Guides - 
+
+- [`Javascript`](https://github.com/webpack/webpack)
+- [`Objective-C`](https://github.com/webpack/webpack)
+- [`React`](https://github.com/webpack/webpack)
+- [`CSS/Sass`](https://github.com/webpack/webpack)
