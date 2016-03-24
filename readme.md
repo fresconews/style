@@ -4,7 +4,7 @@ This repo serves as a reference to all of our style rules when coding. Any chang
 
 The style guides are based off both [`AirBnb`](https://github.com/airbnb/javascript) and [`NYT`](https://github.com/NYTimes/objective-c-style-guide).
 
-The repo is separated by directories, each directory being its own language or framework.
+The repo is separated by directories, each directory being its own `language` or `framework`.
 
 ##Table of Contents - 
 
