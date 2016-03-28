@@ -318,7 +318,7 @@
 
 ## Documentation
 
-  - Use http://usejsdoc.org/ as a reference
+  - All documentation should follow the guidlines presented by [`JSDoc`](http://usejsdoc.org/)
 
 **[⬆ back to top](#table-of-contents)**
 
