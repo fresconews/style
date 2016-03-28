@@ -318,7 +318,7 @@
 
 ## Documentation
 
-
+  - Use http://usejsdoc.org/ as a reference
 
 **[⬆ back to top](#table-of-contents)**
 
