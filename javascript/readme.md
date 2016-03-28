@@ -4,6 +4,7 @@
 
 *A mostly reasonable approach to JavaScript*
 
+*Always use 4 space tabbing!*
 
 ## Table of Contents
 
