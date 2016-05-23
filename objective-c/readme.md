@@ -1,4 +1,4 @@
-# Fresco News Objective-C Style Guide
+# Fresco  Objective-C Style Guide
 
 This style guide outlines the coding conventions of the iOS teams at Fresco News. 
 
